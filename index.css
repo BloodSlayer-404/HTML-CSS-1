@@ -118,5 +118,10 @@ button {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Sombra sutil */
 }
 
-
+footer{
+    text-align: center;
+    background-color: #1d9dff;
+    padding: 0.5rem;
+    font-weight: 500;
+}
 
