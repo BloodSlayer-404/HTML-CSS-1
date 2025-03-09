@@ -1,0 +1,122 @@
+body{
+    background-color: #1b1b1b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: #1d9dff;
+    padding-top: 0.2rem;
+}
+
+nav{
+    padding-bottom: 0.3rem;
+}
+
+nav a{
+    text-decoration: none;
+    color: #0d0d0d;
+
+}
+
+section{
+    color: #f3f3f3;
+    padding: 2dvh 2dvw;
+    margin: 1rem 5rem;
+    text-align: justify;
+    background-color: #2f2f2f;
+    border-radius: 1em;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 0.6em;
+}
+
+p{
+    padding: 0.1em 1em;
+}
+
+h3{
+    padding: 0.3em 2em;
+}
+
+ol, ul{
+    padding: 0 5.2em;
+}
+
+li{
+    padding: 0.2em 0;
+}
+
+img{
+    padding-top: 0.8em;
+    border-radius: 1% 5rem;
+}
+
+#def-img{
+    width: 50dvw;
+    max-width: 50em;
+}
+
+.category{
+    border-radius: 0;
+    margin: 0;
+}
+
+#indie{
+    background-color: #3498db;
+}
+
+#AAA{
+    background-color: #f1c40f;
+}
+
+#service{
+    background-color: #9b59b6;
+}
+
+.card{
+    background-color: #d7d7d7;
+    border-radius: 1.3rem;
+    padding: 0 1rem;
+    margin: 0.7em 0;
+    color: #2f2f2f;
+    text-align: center;
+    justify-items: center;
+}
+
+.card-image{
+    height: 50dvh;
+    max-height: 30rem;
+    border-radius: 0;
+    padding: 0;
+    
+}
+
+.line{
+    border: 0.1em solid #000000;
+}
+
+.box{
+    background-color: #c12525;   
+    border: 0.1em solid #bebebe;
+    text-align: center;
+    padding-bottom: 0.8em;
+    
+}
+
+button {
+    background-color: #fff;
+    color: #b71c1c;
+    font-size: 1.1em;
+    font-weight: bold;
+    border: 0.1em solid #4b4b4b;
+    padding: 0.6em 1.3em;
+    border-radius: 3em; 
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Sombra sutil */
+}
+
+
+
